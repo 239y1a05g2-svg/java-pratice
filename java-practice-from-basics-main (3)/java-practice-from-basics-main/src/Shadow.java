@@ -29,7 +29,7 @@ public class Shadow {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Dupe d=new Dupe();
-		d.setData("madhu",101,618210);
+		d.setData("vishnu",101,618210);
 		System.out.println(d.getName()+" "+d.getId()+" "+d.getNum());
 		
 

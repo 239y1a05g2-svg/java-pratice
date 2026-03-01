@@ -22,7 +22,7 @@ public class Poly {
 
         Customer c1 = new Customer();
 
-        c1.setDetails('M');
+        c1.setDetails('V');
         c1.setDetails("atp");
         c1.setDetails(85451724L);
 

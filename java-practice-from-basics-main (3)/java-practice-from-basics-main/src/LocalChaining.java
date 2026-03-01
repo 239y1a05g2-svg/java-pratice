@@ -31,11 +31,11 @@ public class LocalChaining {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Dupe3 d=new Dupe3("madhu",1010,87199181);
+		Dupe3 d=new Dupe3("vishnu",1010,87199181);
 	
 		//"madhu",101,618210);
 		System.out.println(d.getName()+" "+d.getId()+" "+d.getNum());
-//	Dupe1 d1=new Dupe1("madhu",100,99959959);
+//	Dupe1 d1=new Dupe1("vishnu",100,99959959);
 //		System.out.println(d1.getName()+" "+d1.getId()+" "+d1.getNum());
 
 		
